@@ -1,0 +1,8 @@
+{
+  	"input_size":[160, 128, 3],
+	"BS_eval":32,
+	"maskColor":{
+		"Pupil":[255, 0, 0],
+		"Background":[0, 0, 0]
+	}
+}

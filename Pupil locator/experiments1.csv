@@ -1,0 +1,14 @@
+yes file DS_NAME epochs batch_size lr es wanted file2read backbon weights output model_weights metric_thr
+0 train.py 'ClinicAnnotated_DA' 100 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' clinin_mnet_p_125_last_m '' 0.5
+0 train.py 'NN_human_mouse_eyes' 100 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' NN_mnet_p_100_last_m '' 0.5
+0 train.py 's-openeds' 100 128 0.0001 0 'p' 0 'mine' '[1,0,0,0]' openeds_mnet_p_100_last_m '' 0.5
+0 train.py 'MOBIUS' 150 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' MOBIUS_mnet_p_150_last '' 0.5
+0 train.py 'ClinicAnnotated_DA' 10 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' clinic_openeds_both_sk_last_25_100 '../Results/model1/model_mine_10_02_2023:10_35_47_openeds_mnet_p_100_last_m/model1_results_segs_best.hdf5' 0.5
+0 train.py 'ClinicAnnotated_DA' 75 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' clinic_openeds_both_sk_last_50_100 '../Results/model1/model_mine_10_02_2023:10_35_47_openeds_mnet_p_100_last_m/model1_results_segs_best.hdf5' 0.5
+0 train.py 'ClinicAnnotated_DA' 10 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' clinic_NN_both_sk_last_10_100 '../Results/model1/model_mine_09_02_2023:23_21_38_NN_mnet_p_100_last_m/model1_results_segs_best.hdf5' 0.5
+0 train.py 'ClinicAnnotated_DA' 50 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' clinic_openeds_both_sk_last_50_100 '../Results/model1/model_mine_10_02_2023:10_35_47_openeds_mnet_p_100_last_m/model1_results_segs_best.hdf5' 0.5
+0 train.py 'ClinicAnnotated_DA' 50 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' clinic_NN_both_sk_last_50_100 '../Results/model1/model_mine_09_02_2023:23_21_38_NN_mnet_p_100_last_m/model1_results_segs_best.hdf5' 0.5
+0 train.py 'NN_human_mouse_eyes' 25 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' NN_Openeds_both_sk_last_10_100_m '../Results/model1/model_mine_10_02_2023:10_35_47_openeds_mnet_p_100_last_m/model1_results_segs_best.hdf5' 0.5
+0 train.py 'ClinicAnnotated_DA' 25 128 0.0001 1 'p' 0 'mine' '[1,0,0,0]' Clinic_NN_Openeds_both_sk_last_25_10_100_m '../Results/model1/model_mine_10_02_2023:21_32_17_NN_Openeds_both_sk_last_10_100_m/model1_results_segs_best.hdf5' 0.5
+0 train.py 'NN_human_mouse_eyes' 50 128 0.0001 0 'p' 0 'UNET' '[1,0,0,0]' NN_unet_p_50 '' 0.5
+0 train.py 'NN_human_mouse_eyes' 50 128 0.0001 0 'pis' 0 'UNET' '[1,0,0,0]' NN_unet_pis_50 '' 0.5

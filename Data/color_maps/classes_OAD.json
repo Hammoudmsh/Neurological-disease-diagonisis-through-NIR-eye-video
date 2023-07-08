@@ -1,0 +1,7 @@
+{
+	"classes":["Pupil", "Background"],
+	"maskColor":{
+		"Pupil":[255, 0, 0],
+		"Background":[0, 0, 0]
+	}
+}

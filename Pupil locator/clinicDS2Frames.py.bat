@@ -1,0 +1,2 @@
+python DS_clinicDS2Frames.py
+pause

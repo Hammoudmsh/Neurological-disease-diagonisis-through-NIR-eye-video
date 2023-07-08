@@ -1,0 +1,9 @@
+{
+	"classes":["Pupil", "Iris", "Sclera", "Background"],
+	"maskColor":{
+		"Pupil":[0, 0, 255],
+		"Iris":[0, 255, 0],
+		"Sclera":[255, 0, 0],
+		"Background":[0, 0, 0]
+	}
+}

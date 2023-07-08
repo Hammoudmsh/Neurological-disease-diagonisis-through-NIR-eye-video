@@ -1,0 +1,5 @@
+ignore/
+DataSet/
+*.zip
+*.sh
+README.md
