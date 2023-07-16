@@ -101,6 +101,6 @@ python train1.py --epochs 1000 --lr 0 --file2read 0 --es 1 --batch_size 32 --WAN
 ![image](https://github.com/Hammoudmsh/Neurological-disease-diagonisis-through-eye-movements/assets/57059181/6772c759-a321-4e2d-820f-8d78b8c7d2e3)
 <br />
 ## **Confusion matrix of disease classification from left, right, and both eyes**
-![image](https://github.com/Hammoudmsh/Neurological-disease-diagonisis-through-NIR-eye-video/assets/57059181/e972af9c-9eea-4871-b1d3-9a08788c64fa)
+![image](https://github.com/Hammoudmsh/Neurological-disease-diagonisis-through-NIR-eye-video/assets/57059181/98d8c314-1926-450b-80ad-3d1fd78a38c5)
 
 
