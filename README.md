@@ -34,7 +34,7 @@ pip install -r requirements_paper.txt
 * Manual downloading:
 <a href="" target="_blank">Patients</a>, <a href="https://cs.rit.edu/~cgaplab/RIT-Eyes/" target="_blank">OpenEDS</a>, <a href="https://cs.rit.edu/~cgaplab/RIT-Eyes/" target="_blank">Navgaze</a>, <a href="https://zenodo.org/record/4488164#.Y7U7YdVByUl" target="_blank">NN human mouse eyes</a>
 
-* Partial automatic run scripts, to download opened, navgaze, natural, and NN human mouse datasets.
+* Partial automatic run scripts, to download OpenEDS, NavGaze, natural, and NN human mouse datasets.
 ```
 cd Data/
 python Data/download_data.py
