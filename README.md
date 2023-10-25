@@ -8,7 +8,7 @@
 * [Results](#results)
 
 ## Introduction
-Deep learning is extensively used in neurological applications as decision support for doctors. Parkin disease(PD) and Progressive Supranuclear Palsy(PSP) are crucial neurodegenerative diseases that have similar symptoms. The goal of this work is to classify PD, PSP, and Healthy Control(HC) with high accuracy through eye movements. The paper is <a href="" target="_blank">Paper(will be added)</a>.
+Deep learning is extensively used in neurological applications as decision support for doctors. Parkin disease(PD) and Progressive Supranuclear Palsy(PSP) are crucial neurodegenerative diseases that have similar symptoms. The goal of this work is to classify PD, PSP, and Healthy Control(HC) with high accuracy through eye movements. The paper is <a href="https://www.sciencedirect.com/science/article/abs/pii/S2542660523002378" target="_blank">Paper(will be added)</a>.
 **Research questions:**
 - What is the impact of using different tests in diagnosis results?
 - What are the best features to be considered in the diagnosis?
