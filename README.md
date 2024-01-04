@@ -104,3 +104,17 @@ python train1.py --epochs 1000 --lr 0 --file2read 0 --es 1 --batch_size 32 --WAN
 ![image](https://github.com/Hammoudmsh/Neurological-disease-diagonisis-through-NIR-eye-video/assets/57059181/98d8c314-1926-450b-80ad-3d1fd78a38c5)
 
 
+
+
+# citation
+```
+@article{hammoud2023deep,
+  title={Deep learning framework for neurological diseases diagnosis through near-infrared eye video and time series imaging algorithms},
+  author={Hammoud, Mohammed and Kovalenko, Ekaterina and Somov, Andrey and Bril, Ekaterina and Baldycheva, Anna},
+  journal={Internet of Things},
+  volume={24},
+  pages={100914},
+  year={2023},
+  publisher={Elsevier}
+}
+```
